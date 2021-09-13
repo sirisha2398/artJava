@@ -1,4 +1,4 @@
-:beginner: _**INSTANT PRACTICE**_  
+:beginner: _**INSTANT PRACTICE**_
 
 - Modify PrivitiveDataTypes.java to use all the primitive datatypes and print their default values.
-- Use your own choice of Wrappers inside a List.
+- Use your own choice of Wrappers inside a List and perform boxing and unboxing.
